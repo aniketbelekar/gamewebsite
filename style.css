@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+body {
+    background-image: url(young-gamer-having-fun-with-action-video-games-competition-playing-online-game-championship-caucasian-woman-enjoying-rpg-play-tournament-live-stream-gaming-modern-computer_482257-47444.avif);
+    background-size: cover;
+
+}
+
+.color {
+    color: rgba(255, 132, 0, 0.853);
+    display: flex;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.color P {
+    color: rgb(248, 162, 15);
+}
+
+.navbar {
+    height: 60px;
+    background-color: black;
+    display: flex;
+
+    align-items: center;
+
+
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 120px;
+    margin-left: 50px;
+
+}
+
+li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-style: italic;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 600px;
+
+
+}
+
+
+button {
+    margin-left: 300px;
+    height: 25px;
+    width: 95px;
+    align-items: center;
+    color: black;
+
+    text-transform: lowercase;
+    border-radius: 0.25rem;
+    font-style: italic;
+    border-radius: 40px;
+    background-color: rgb(255, 165, 0);
+
+}
+
+section {
+    display: flex;
+    color: white;
+    margin-top: 300px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+P{
+    color: yellow;
+    font-size: 20px;
+}
+.paragraph{
+    color: white;
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: 100;
+
+}
+.btn{
+    margin-top: 20px;
+    margin-left: -280px;
+}
+.circle1{
+    height: 20px;
+    width: 20px;
+    border: 2px solid yellow;
+    background-color: yellow;
+    border-radius: 50%;
+    font-size: small;
+    font-weight: 200;
+    margin-top: 80px;
+    margin-left: 30px;
+    position: absolute;
+}
+.circle2{
+    height: 20px;
+    width: 20px;
+    border: 2px solid rgb(235, 235, 230);
+    background-color: rgb(240, 240, 229);
+    border-radius: 50%;
+    font-size: small;
+    font-weight: 200;
+    margin-top: 80px;
+    margin-left: 30px;
+    position: relative;
+    margin-left: 60px;
+    
+}
+footer {
+    height: 50;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+
+    background-color:black;
+    position: absolute;
+    bottom: 0;
+}
+.latestnews h1{
+height: 60px;
+width: 20vw;
+    color: white;
+    margin-left: 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+  
+}
+.new{
+ 
+    height: 30px;
+    width: 40px;
+    background-color:darkmagenta;
+    margin-top: 13px;
+    
+}
+p{
+    color: white;
+
+}
+.text{
+    margin-top: 13px;
+    margin-left: 12px;
+    font-style: italic;
+    font-size: small;
+
+}
+.strategy{
+    height: 28px;
+    width: 7vw;
+    margin-left: 40px;
+    margin-top: 13px;
+    border: 2px solid green;
+    background-color: rgb(14, 150, 14);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.text1{
+    margin-left: 2vw;
+    margin-top: 13px;
+    text-transform: lowercase;
+    font-size: small;
+    font-style: italic;
+    
+
+}
